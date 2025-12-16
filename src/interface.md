@@ -53,4 +53,4 @@ silence: true
 A custom GPT configured using the ZR specification.
 This interface preserves user responsibility and does not provide decisions or conclusions.
 
-https://chatgpt.com/g/g-693dfa94f380819192c51f6fbddd80d6-zero-reflect
+https://chatgpt.com/g/g-69406fb10ae08191a33b19a724034639-zero-reflect-zr-ux
