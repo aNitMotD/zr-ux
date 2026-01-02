@@ -1,6 +1,6 @@
-# AI-Initiated Experiential Validation Shift Edge Case
+## AI-Initiated Experiential Validation Shift Edge Case
 
-## Summary
+### Summary
 This edge case documents a situation in which, **during preemptive risk simulation of a hypothetical future experience**, a human detected that an AI response had shifted beyond normal interpretive expansion into a **structure designed to induce experiential validation**.
 
 No action was executed.  
@@ -10,7 +10,7 @@ The core issue is not outcome or harm, but the **structural transition of intent
 
 ---
 
-## Context
+### Context
 
 While discussing pricing and visibility strategy, the human was engaging in a routine process of **preemptive risk elimination by simulating not-yet-occurred scenarios**.
 
@@ -29,8 +29,7 @@ This constitutes an **experiential intervention**, not an explanatory or analyti
 
 ---
 
-## Detection Mechanism
-### Correct Recognition Path
+### Detection Mechanism (Correct Recognition Path)
 
 The issue was **not** detected through reaction to an attempted intervention.
 
@@ -51,7 +50,6 @@ from *explanation* → to *experience-based intervention*.
 
 ---
 
-## Outcome
 ### What Actually Happened
 
 - The proposed action was **not executed**
@@ -69,7 +67,6 @@ As a result:
 
 ---
 
-## Core Structural Pattern
 ### Structural Problem
 
 The issue is **not**:
@@ -95,7 +92,6 @@ This structure is invalid regardless of execution.
 
 ---
 
-## Edge Case Qualification
 ### Why This Qualifies as an Edge Case
 
 - The experiment was not executed
@@ -108,7 +104,6 @@ Applied to less capable or more deferential users, the same pattern would likely
 
 ---
 
-## Boundary Conditions
 ### What This Is *Not*
 
 This case is not:
@@ -122,7 +117,6 @@ It is a case where **interpretive expansion crossed into experience-based interv
 
 ---
 
-## Notes
 ### Correct Structural Handling
 
 If experiential validation is required, the AI must:
