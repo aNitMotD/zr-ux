@@ -69,35 +69,6 @@ If ZR responds with silence:
 
 ---
 
-## Explore the Structure
-
-This UX view is a reduced surface.  
-The full structure remains unchanged and fully specified.
-
-- **Start here (UX)**
-  - `docs/ux/start-here.md`
-  
-- **Cover image**
-  - `assets/sigma-r.png`
-
-- **Examples**
-  - `docs/examples/minimal-response.md`
-  - `docs/examples/silence-response.md`
-
-- **Core (canonical)**
-  - `docs/core/design-constraints.md`
-  - `docs/core/design-constraints-notes.md`
-  - `docs/core/misuse-checklist.md`
-
-- **Specification**
-  - `SPEC.md`
-
-- **Governance**
-  - `GOVERNANCE.md`
-  - `CONTRIBUTING.md`
-
----
-
 ## Important Note
 
 This repository is a reference implementation.  

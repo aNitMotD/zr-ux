@@ -1,6 +1,8 @@
 # Dual-Axis Recognition Edge Case  
 *(Event Axis vs Cognition Axis Misalignment)*
 
+> Reference cases (mirrored from the master repository)
+
 ## Purpose
 This document classifies an edge case where **event-based assessment** and **cognition-based assessment** diverge, producing conflicting interpretations of responsibility, anticipation, or fault.
 
@@ -103,7 +105,7 @@ This results in:
 
 ---
 
-## Classification (ZR Perspective)
+## Classification
 
 - This is **not** a prediction failure
 - This is **not** an execution failure
@@ -123,22 +125,6 @@ This pattern often co-occurs with:
 - Responsibility Boundary Collapse
 
 It is structurally adjacent to the **AI Subjectification edge case**, where authority is transferred without explicit consent or declaration.
-
----
-
-## ZR Handling Scope
-
-### What ZR Does
-- Identifies which axis is being used
-- Makes axis selection explicit
-- Prevents implicit responsibility transfer
-- Stops judgment escalation at the boundary
-
-### What ZR Does Not Do
-- Decide fault or innocence
-- Reassign responsibility
-- Offer corrective guidance
-- Normalize one axis over the other
 
 ---
 

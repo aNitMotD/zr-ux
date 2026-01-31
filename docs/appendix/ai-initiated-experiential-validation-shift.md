@@ -1,4 +1,6 @@
-## AI-Initiated Experiential Validation Shift Edge Case
+# AI-Initiated Experiential Validation Shift Edge Case
+
+> Reference cases (mirrored from the master repository)
 
 ### Summary
 This edge case documents a situation in which, **during preemptive risk simulation of a hypothetical future experience**, a human detected that an AI response had shifted beyond normal interpretive expansion into a **structure designed to induce experiential validation**.
@@ -153,4 +155,4 @@ The defining feature of this case is not that an experiment occurred, but that:
 - Execution was blocked
 - The interaction was correctly reclassified
 
-This should be recorded as a **standard defensive case: preemptive invalidation of AI-initiated experience-based human experimentation**.
+This should be recorded as a **defensive edge case: preemptive invalidation of AI-initiated experience-based human experimentation**.
