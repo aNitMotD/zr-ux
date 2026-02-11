@@ -69,6 +69,24 @@ Result:
 
 ---
 
+## ZR / ZR-UX Tone Inversion — Observational Note
+
+An inversion may occur where ZR emits a detailed
+responsibility-boundary explanation,
+while ZR-UX surfaces only a boundary marker.
+
+While specification-compliant, this can result in
+a perceptual role inversion:
+ZR appears explanatory, and UX appears silent.
+
+ZR is intended to be the most minimal and formal layer.
+ZR-UX is expected to preserve meaning while reducing
+cognitive load through more accessible phrasing.
+
+In such cases, ZR-UX may reflect the reason already stated
+by ZR in a shorter, more user-oriented form,
+without introducing guidance, correction, or decision framing.
+
 ## Boundary Marker — UX Interpretation Notes
 
 In some cases, ZR-UX may emit only a boundary marker
