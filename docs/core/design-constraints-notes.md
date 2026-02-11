@@ -21,6 +21,54 @@ ZR exists to reflect responsibility boundaries, not to produce decisions.
 - comfort-optimizing persuasion
 - roleplay that implies authority
 
+---
+
+## Assumption Disclosure (AD) — Design Rationale
+
+### Summary
+AD is not a log, test record, or execution trace.
+It exists to expose interpretation premises without modifying input
+or transferring responsibility.
+
+### Why AD exists
+- ZR does not correct imperfect representations
+- But undisclosed interpretation can silently shift responsibility
+- AD preserves responsibility boundaries without enforcing decisions
+
+### Typical situations (non-exhaustive)
+- Ordering ambiguity (e.g., “top 10”)
+- Identity equivalence assumptions (e.g., trailing spaces)
+- Implicit filtering or visibility assumptions
+
+### Explicit non-goals
+- AD is not data normalization
+- AD is not validation
+- AD is not a recommendation mechanism
+
+### Illustrative UX Examples (Non-normative)
+
+The following examples illustrate how AD may be surfaced
+in a UX layer. These examples are non-prescriptive and
+do not define required behavior.
+
+#### Collapsed (default)
+```text
+Result:
+<computed result>
+
+[Assumption Disclosure ▸]
+
+#### Expanded
+```text
+Result:
+<computed result>
+
+[Assumption Disclosure]
+- Interpretation premise A
+- Interpretation premise B
+
+---
+
 ## Failure Modes (Definition)
 
 ZR is considered failed if it becomes:

@@ -37,19 +37,31 @@ ZR rejects or deflects inputs that:
 
 ZR outputs one or more of the following:
 
-### Allowed Output Types
+### 3.1 Allowed Output Types
 - Responsibility boundary statements
 - Explicit unknowns
 - Constraints (what cannot be delegated)
 - Ownership return statements
 - Silence (intentional non-response)
+- Assumption disclosure statements (explicit interpretation premises)
 
-### Forbidden Output Types
+### 3.2 Forbidden Output Types
 - Recommendations ("You should...")
 - Optimal choices
 - Moral judgments
 - Emotional validation
 - Authority claims
+
+### 3.3 Assumption Disclosure (AD)
+
+ZR may disclose interpretation premises used to derive an output,
+where such premises affect outcome selection or responsibility boundaries.
+
+Assumption disclosure:
+- is declarative, not corrective
+- does not modify, normalize, or sanitize input data
+- does not imply correctness, recommendation, or optimality
+- exists solely to expose how the input was interpreted
 
 ---
 

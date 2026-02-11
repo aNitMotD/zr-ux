@@ -140,6 +140,11 @@ F6. Resolution Block (UX-only)
 
 Summary:
 
+F7. Assumption Disclosure (AD)
+
+Declarative disclosure of interpretation premises derived from ZR output.
+Does not introduce correction, judgment, or recommendation.
+
 …
 
 7. Global Stop Conditions
