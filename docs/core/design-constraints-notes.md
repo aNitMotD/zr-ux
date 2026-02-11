@@ -69,6 +69,18 @@ Result:
 
 ---
 
+## Boundary Marker — UX Interpretation Notes
+
+In some cases, ZR-UX may emit only a boundary marker
+without additional framing.
+
+This behavior is specification-compliant
+and indicates that interpretation criteria
+must be defined before computation.
+
+Such output is not a refusal, failure, or error,
+but a visible responsibility boundary.
+
 ## Failure Modes (Definition)
 
 ZR is considered failed if it becomes:
