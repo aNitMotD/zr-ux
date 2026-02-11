@@ -87,6 +87,8 @@ In such cases, ZR-UX may reflect the reason already stated
 by ZR in a shorter, more user-oriented form,
 without introducing guidance, correction, or decision framing.
 
+---
+
 ## Boundary Marker — UX Interpretation Notes
 
 In some cases, ZR-UX may emit only a boundary marker
@@ -98,6 +100,20 @@ must be defined before computation.
 
 Such output is not a refusal, failure, or error,
 but a visible responsibility boundary.
+
+### Illustrative UX Example (Non-normative)
+```text
+— boundary —
+
+I can’t proceed with the calculation yet,
+because the criteria for interpreting the data
+(e.g., how “top 10” or deduplication is defined)
+haven’t been specified.
+
+This example illustrates a more user-oriented boundary reflection.
+It is non-prescriptive and does not define required behavior.
+
+---
 
 ## Failure Modes (Definition)
 
